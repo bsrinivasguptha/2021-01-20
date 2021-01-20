@@ -1,0 +1,4 @@
+Right to left override character (U+202E) is used, which makes the following characters show in reverse order.
+
+Actual filename: extrem(Special character)txt.exe
+Output filename: extremexe.txt
